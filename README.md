@@ -1,4 +1,4 @@
-# Mamatha C K — QA Test Analyst
+# Mamatha C K
 ## 👩‍💻 Professional Summary
 
 Results-oriented QA Test Analyst with **3+ years of experience** in Manual and Automation Testing. Skilled in Selenium WebDriver, Java, TestNG, Cucumber, API Testing, SQL, and JIRA. Strong expertise in test case design, automation framework development, regression testing, and defect tracking. Passionate about delivering high-quality software solutions in Agile environments.
